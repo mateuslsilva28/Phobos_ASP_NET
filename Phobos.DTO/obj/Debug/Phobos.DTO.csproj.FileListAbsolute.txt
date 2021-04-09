@@ -1,0 +1,6 @@
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DTO\bin\Debug\Phobos.DTO.dll
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DTO\bin\Debug\Phobos.DTO.pdb
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DTO\obj\Debug\Phobos.DTO.csprojAssemblyReference.cache
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DTO\obj\Debug\Phobos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DTO\obj\Debug\Phobos.DTO.dll
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DTO\obj\Debug\Phobos.DTO.pdb

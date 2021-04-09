@@ -1,0 +1,11 @@
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\bin\Debug\Phobos.DLL.dll
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\bin\Debug\Phobos.DLL.pdb
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\bin\Debug\Phobos.DAL.dll
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\bin\Debug\Phobos.DTO.dll
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\bin\Debug\Phobos.DAL.pdb
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\bin\Debug\Phobos.DTO.pdb
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\obj\Debug\Phobos.BLL.csprojAssemblyReference.cache
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\obj\Debug\Phobos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\obj\Debug\Phobos.BLL.csproj.CopyComplete
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\obj\Debug\Phobos.DLL.dll
+C:\Users\TANQUINHO\Documents\Mateus EAD\Projeto Phobos\Phobos.DLL\obj\Debug\Phobos.DLL.pdb
